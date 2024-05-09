@@ -1,7 +1,7 @@
 import {useState} from "react";
 import {data} from "./data";
-import Buttons from "./buttons";
-import Clothes from "./clothes";
+import Buttons from "./Buttons";
+import Clothes from "./Clothes";
 
 function Home () {
     

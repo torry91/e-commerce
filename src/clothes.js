@@ -2,7 +2,7 @@ function Clothes ({lastState}) {
     return (
         <div className="products">
             {lastState.map((element => {
-                const {id,name,searchTerm,price,image} = element;
+                const {id,name,price,image} = element;
 
                 return (
                 <div key = {id} className="product-card" >

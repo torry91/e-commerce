@@ -1,9 +1,6 @@
-import React from "react"
-import {data} from "./data";
-import {useState} from "react";
-import clothes from "./clothes";
-import './App.css';
-import Buttons from "./buttons";
+
+import React from "react";
+
 import {
   BrowserRouter as Router,
   Routes,
@@ -13,6 +10,7 @@ import {
 import Home from "./Home";
 import Contact from "./Contact";
 import About from "./About";
+import './App.css';
 
 function App () {
   return (
@@ -31,6 +29,4 @@ function App () {
 </Router>
   )
 }
-
-
 export default App;
