@@ -22,17 +22,8 @@ export const data = [
   price: 278.99,
   image: "https://lespoirstudios.com/wp-content/uploads/2024/04/Lespoir-317026-726x1038.jpeg"
   },
-
-{
-    id: 4,
-    name: "Pura Jeans ",
-    searchTerm: "pants",
-    price: 199.99,
-    image: "https://plus.unsplash.com/premium_photo-1689371956253-871f0b4f316b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8ME0xbTVPV1Eycmt8fGVufDB8fHx8fA%3D%3D"
-    },
-
     {
-    id: 5,
+    id: 4,
     name: "Ellie ",
     searchTerm: "pants",
     price: 100.99,
@@ -41,7 +32,7 @@ export const data = [
     },
 
     {
-    id: 6,
+    id: 5,
     name: "Rosa Skirt",
     searchTerm: "skirt",
     price: 300.99,
@@ -49,7 +40,7 @@ export const data = [
 
     },
   {
-    id: 7,
+    id: 6,
     name: "Leea Shirt",
     searchTerm: "shirt",
     price: 285.99,
@@ -57,7 +48,7 @@ export const data = [
     },
 
     {
-    id: 8,
+    id: 7,
     name: "L'espoir ",
     searchTerm: "shirt",
     price: 284,
@@ -66,7 +57,7 @@ export const data = [
     },
 
   {
-    id: 9,
+    id: 8,
     name: "Carter Shoes",
     searchTerm: "shoes",
     price: 305.99,
@@ -74,7 +65,7 @@ export const data = [
     },
   
     {
-    id: 10,
+    id: 9,
     name: "Sandals ",
     searchTerm: "shoes",
     price: 305.99,
@@ -82,7 +73,7 @@ export const data = [
     },
   
     {
-      id: 11,
+      id: 10,
       name: "Mira shoes",
       searchTerm: "shoes",
       price: 305.99,
@@ -92,7 +83,7 @@ export const data = [
   
     {
   
-      id: 12,
+      id: 11,
   
       name: "EBY Dress",
   
@@ -106,7 +97,7 @@ export const data = [
   
     {
   
-      id: 13,
+      id: 12,
   
       name: "Cargo Pants",
   
@@ -120,7 +111,7 @@ export const data = [
   
     {
   
-      id: 14,
+      id: 13,
   
       name: "Annie Skirt",
   
@@ -134,7 +125,7 @@ export const data = [
   
     {
   
-      id: 15,
+      id: 14,
   
       name: "Malade Shirt ",
   
@@ -144,6 +135,13 @@ export const data = [
   
       image: "https://images.unsplash.com/photo-1601762603339-fd61e28b698a?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTIzfHxiYXNpYyUyMGZhc2hpb258ZW58MHx8MHx8fDA%3D"
   
-    }
+    },
+    {
+    id: 15,
+    name: "Pura Jeans ",
+    searchTerm: "pants",
+    price: 199.99,
+    image: "https://plus.unsplash.com/premium_photo-1689371956253-871f0b4f316b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8ME0xbTVPV1Eycmt8fGVufDB8fHx8fA%3D%3D"
+    },
   
   ]
