@@ -3,7 +3,6 @@ function Clothes ({lastState}) {
         <div className="products">
             {lastState.map((element => {
                 const {id,name,price,image} = element;
-
                 return (
                 <div key = {id} className="product-card" >
                     <div className="product-info">

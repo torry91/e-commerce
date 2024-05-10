@@ -1,4 +1,5 @@
-function Buttons ({filteredClothes}) {
+
+function Buttons({filteredClothes}) {
 return(
         <div className="cont">
             <button className="change" onClick={() => filteredClothes("dress")}>Dresses</button>

@@ -14,14 +14,22 @@ export const data = [
     image: "https://lespoirstudios.com/wp-content/uploads/2024/04/Lespoir-339722-1-726x1038.jpeg"
 },
 {
-    id: 3,
+  id: 3,
+  name: "Coli Skirt",
+  searchTerm: "skirt",
+  price: 278.99,
+  image: "https://lespoirstudios.com/wp-content/uploads/2024/04/Lespoir-317026-726x1038.jpeg"
+
+  },
+{
+    id: 4,
     name: "Pura Jeans ",
     searchTerm: "pants",
     price: 199.99,
     image: "https://plus.unsplash.com/premium_photo-1689371956253-871f0b4f316b?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MTN8ME0xbTVPV1Eycmt8fGVufDB8fHx8fA%3D%3D"
     },
 {
-    id: 4,
+    id: 5,
     name: "Ellie ",
     searchTerm: "pants",
     price: 100.99,
@@ -29,7 +37,7 @@ export const data = [
 
     },
 {
-    id: 5,
+    id: 6,
     name: "Rosa Skirt",
     searchTerm: "skirt",
     price: 300.99,
@@ -37,14 +45,7 @@ export const data = [
 
     },
   
-    {
-    id: 6,
-    name: "Coli Skirt",
-    searchTerm: "skirt",
-    price: 278.99,
-    image: "https://lespoirstudios.com/wp-content/uploads/2024/04/Lespoir-317026-726x1038.jpeg"
-
-    },
+    
     {
         id: 7,
         name: "Leea Shirt",
